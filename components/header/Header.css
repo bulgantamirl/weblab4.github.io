@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+}
+.header {
+    width: 800px; 
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+#logo{
+    width: auto;
+    height: 90px;
+}
+h2 {
+    color: floralwhite;
+    font-size: 2rem;
+    font-weight: 300;
+}
